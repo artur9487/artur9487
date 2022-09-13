@@ -5,7 +5,7 @@
 - 📫 You can reach me on email artur.www94@gmail.com
 
 - 🛠  Tech Stack:
-🌐   REACT REDUX JavaScript Typescript HTML5 CSS SASS Express.js Node.js Bootstrap
+🌐   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 🛢   MongoDB
 ⚙️   Git GitHub
 🔧   Visual Studio Code
