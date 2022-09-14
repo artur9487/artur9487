@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @artur9487
 
-- 🌱 I’m currently learning the full potential of the full stack React framework - Next.js.
+- 🌱 I’m currently learning the full potential of the fullstack React framework - Next.js.
 
 - 📫 You can reach me on email artur.www94@gmail.com
 
